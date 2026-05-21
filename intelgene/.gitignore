@@ -1,0 +1,6 @@
+.venv/
+__pycache__/
+*.pyc
+data/raw/hg38.fa.gz
+data/processed/genome_tokens.txt
+models/*.pt
